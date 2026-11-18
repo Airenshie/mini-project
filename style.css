@@ -1,0 +1,19 @@
+body {
+    background-color: #e6dddd;
+    font-family: Arial;
+}
+
+.card {
+    background-color: rgb(116, 133, 85);
+    border-radius: 10px;
+}
+
+h2, h3, h4 {
+    color: navy;
+}
+
+@media (max-width: 576px) {
+    h2 {
+        font-size: 22px;
+    }
+}
